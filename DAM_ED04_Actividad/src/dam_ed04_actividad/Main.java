@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * ACTIVIDAD REALIZADA POR IDAIRA ISABEL ARTILES TELLADO
  */
 
 package dam_ed04_actividad;

@@ -6,8 +6,7 @@
 package banquerogit;
 
 /**
- *
- * @author SATELLITE C55A
+ACTIVIDAD REALIZADA POR IDAIRA ARTILES TELLADO
  */
 public class Banquerogit {
 
